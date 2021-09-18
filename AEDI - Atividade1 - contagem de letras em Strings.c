@@ -3,7 +3,7 @@
 #include <string.h>
 #include <ctype.h>
 
-//Write a program that will count the number of characters and how many times each one of them will repeat.
+//Write a program that will count the number of characters and how many times each one of them will repeat itself.
 
 int main()
 {
